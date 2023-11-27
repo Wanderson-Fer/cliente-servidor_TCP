@@ -15,29 +15,29 @@ ao servidor e envia uma mensagem.
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Wanderson-Fer/cliente-servidor_TCP.git
    ```
 
    ou faça o download do código-fonte como um arquivo ZIP.
 
-2. Navegue até o diretório do projeto:
+2. Abra dois terminais.
+
+3. Navegue até o diretório do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd caminho-ate-o-repositorio/cliente-servidor_TCP
    ```
-
-3. Abra dois terminais.
 
 4. Em um terminal, execute o servidor:
 
    ```bash
-   python servidor.py
+   python server.py
    ```
 
 5. No outro terminal, execute o cliente:
 
    ```bash
-   python cliente.py
+   python client.py
    ```
 
 6. Observe as mensagens exibidas nos terminais. 
